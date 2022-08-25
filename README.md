@@ -24,7 +24,7 @@
 - 📫 How to reach me: [Linkedin - @NaveenSingh](https://www.linkedin.com/in/naveen-singh-16ba41221/)
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: NaveenSingh](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-singh-16ba41221/)](https://www.linkedin.com/in/naveen-singh-16ba41221/)
+[![Linkedin: NaveenSingh](https://img.shields.io/badge/-NaveenSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-singh-16ba41221/)](https://www.linkedin.com/in/naveen-singh-16ba41221/)
 [![GitHub MoneshVenkul](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/naveensingh7604)
 
 
