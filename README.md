@@ -3,13 +3,13 @@
          height="45"
          width="45" /> I'm Naveen Singh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensingh7604&label=Views&color=blue&style=plastic" alt="naveensingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnaveensingh&label=Views&color=blue&style=plastic" alt="naveensingh" /> </p>
 
 
 <a href="https://www.linkedin.com/in/naveen-singh-16ba41221/">
   <img align="left" alt="Naveen's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/naveensingh7604">
+<a href="https://github.com/iamnaveensingh">
   <img align="left" alt="Naveen's 'GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
 [![Linkedin: NaveenSingh](https://img.shields.io/badge/-NaveenSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-singh-16ba41221/)](https://www.linkedin.com/in/naveen-singh-16ba41221/)
-[![GitHub NaveenSingh](https://img.shields.io/github/followers/naveensingh7604?label=follow&style=social)](https://github.com/naveensingh7604)
+[![GitHub NaveenSingh](https://img.shields.io/github/followers/iamnaveensingh?label=follow&style=social)](https://github.com/iamnaveensingh)
 
 
 
