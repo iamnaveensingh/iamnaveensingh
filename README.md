@@ -6,14 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnaveensingh&label=Views&color=blue&style=plastic" alt="naveensingh" /> </p>
 
 
-<a href="https://www.linkedin.com/in/naveen-singh-16ba41221/">
-  <img align="left" alt="Naveen's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/iamnaveensingh">
-  <img align="left" alt="Naveen's 'GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/>
-<br/>
+
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
@@ -27,7 +20,14 @@
 [![Linkedin: NaveenSingh](https://img.shields.io/badge/-NaveenSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-singh-16ba41221/)](https://www.linkedin.com/in/naveen-singh-16ba41221/)
 [![GitHub NaveenSingh](https://img.shields.io/github/followers/iamnaveensingh?label=follow&style=social)](https://github.com/iamnaveensingh)
 
-
+<a href="https://www.linkedin.com/in/naveen-singh-16ba41221/">
+  <img align="left" alt="Naveen's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/iamnaveensingh">
+  <img align="left" alt="Naveen's 'GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/>
+<br/>
 
 <div align="center">
 
