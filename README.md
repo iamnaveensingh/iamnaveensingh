@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
 [![Linkedin: NaveenSingh](https://img.shields.io/badge/-NaveenSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-singh-16ba41221/)](https://www.linkedin.com/in/naveen-singh-16ba41221/)
-[![GitHub MoneshVenkul](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/naveensingh7604)
+[![GitHub NaveenSingh](https://img.shields.io/github/followers/naveensingh7604?label=follow&style=social)](https://github.com/naveensingh7604)
 
 
 
