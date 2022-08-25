@@ -19,10 +19,8 @@
 
 [![Linkedin: NaveenSingh](https://img.shields.io/badge/-NaveenSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-singh-16ba41221/)](https://www.linkedin.com/in/naveen-singh-16ba41221/)
 [![GitHub NaveenSingh](https://img.shields.io/github/followers/iamnaveensingh?label=follow&style=social)](https://github.com/iamnaveensingh)
-
 <br/>
 <br/>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
