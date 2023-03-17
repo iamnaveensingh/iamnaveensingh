@@ -9,7 +9,7 @@
 
 
 # 💫 About Me :
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+&nbsp;<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 😄 Pronouns: He/His
 - 🔭 I’m currently Pursuing BCA from [SVSU](https://www.subharti.org/).
