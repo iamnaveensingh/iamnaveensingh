@@ -2,8 +2,11 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Naveen Singh</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnaveensingh&label=Views&color=blue&style=plastic" alt="naveensingh" /> </p>
+
 # 💫 About Me :
+
 - 😄 Pronouns: He/His
 - 🔭 I’m currently Pursuing BCA from [SVSU](https://www.subharti.org/).
 - 🌱 I’m currently learning about Full Stack Development With Web3 From [Almabetter](https://www.almabetter.com/).
@@ -11,14 +14,17 @@
 - 💬 Ask me about Full Stack Development.
 - 📫 How to reach me: [Linkedin - @NaveenSingh](https://www.linkedin.com/in/iamnaveensingh/)
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
+
 [![Linkedin: NaveenSingh](https://img.shields.io/badge/-NaveenSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamnaveensingh/)](https://www.linkedin.com/in/iamnaveensingh/)
 [![GitHub NaveenSingh](https://img.shields.io/github/followers/iamnaveensingh?label=follow&style=social)](https://github.com/iamnaveensingh)
 <br/>
 <br/>
 <div align="center">
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+ 
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
        </a> &nbsp;
@@ -53,8 +59,13 @@
       </a>&nbsp;
    </a>
  </p>
+
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnaveensingh&show_icons=true&locale=en&layout=compact" alt="iamnaveensingh" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnaveensingh&show_icons=true&locale=en" alt="iamnaveensingh" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnaveensingh&" alt="iamnaveensingh" /></p>
+
 ### Show some ❤️ by starring some of the repositories!
+
 </div>
