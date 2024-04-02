@@ -8,8 +8,7 @@
 # 💫 About Me :
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently Pursuing BCA from [SVSU](https://www.subharti.org/).
-- 🌱 I’m currently learning about Full Stack Development With Web3 From [Almabetter](https://www.almabetter.com/).
+- 🔭 I’m currently Pursuing MCA from [LPU](https://www.lpu.in/).
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development.
 - 📫 How to reach me: [Linkedin - @NaveenSingh](https://www.linkedin.com/in/iamnaveensingh/)
